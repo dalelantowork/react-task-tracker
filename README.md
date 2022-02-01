@@ -1,2 +1,2 @@
-# react-task-tracker
- first try in react
+# React Task Tracker
+Task Tracker Basic Application created using react js
